@@ -2,7 +2,11 @@
 
 I'm Arbab Khan, a skilled MERN fullstack developer, blending frontend and backend technologies to create robust and user-friendly web applications. My expertise spans a spectrum of modern tools, ensuring a seamless and engaging digital experience. With a focus on clean, efficient code and a passion for innovation, I bring a creative edge to every project. From responsive UIs to powerful server-side logic, I'm dedicated to delivering top-notch solutions that meet both user expectations and business objectives.
 
-![GIF](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)
+<p align="center">
+  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="800" height="500" />
+</p>
+
+
 
 ## About Me
 My passion lies in conceptualizing ideas and bringing them to life through sophisticated interfaces. I place great emphasis on the overall user experience, code quality, and architectural integrity of the projects I work on. As an avid open-source enthusiast and contributor, I appreciate the collaborative and knowledge-sharing aspects of the community.
